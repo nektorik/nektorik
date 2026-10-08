@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Telegram+bots+%7C+Web+apps+%7C+Desktop+tools;Python+%7C+JavaScript+%7C+C%23;Code+quality+over+quantity" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Telegram+bots+%7C+Web+apps+%7C+Desktop+tools;Python+%7C+JavaScript+%7C+C%23" alt="Typing SVG">
   </a>
 </p>
 
@@ -56,7 +56,7 @@
 **Weather in Belgrade**
 
 <p>
-  <img src="https://wttr.in/Belgrade.png?lang=en" alt="Weather">
+  <img src="https://wttr.in/Belgrade.png?lang=en&format=3" alt="Weather">
 </p>
 
 ---
@@ -94,7 +94,7 @@
 **Погода в Белграде**
 
 <p>
-  <img src="https://wttr.in/Belgrade.png?lang=ru" alt="Погода">
+  <img src="https://wttr.in/Belgrade.png?lang=ru&format=3" alt="Погода">
 </p>
 
 ---
@@ -132,7 +132,7 @@
 **Vreme u Beogradu**
 
 <p>
-  <img src="https://wttr.in/Belgrade.png?lang=sr" alt="Vreme">
+  <img src="https://wttr.in/Belgrade.png?lang=sr&format=3" alt="Vreme">
 </p>
 
 ---
